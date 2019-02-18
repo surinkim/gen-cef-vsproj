@@ -1,0 +1,6 @@
+# ignore outputs
+cef/
+cef_tar/
+cef_version.txt
+*.tar
+*.tar.bz2
