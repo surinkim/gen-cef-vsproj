@@ -7,11 +7,11 @@ You can find which version used for build in `cef_version.txt`.
 ## Prerequisites
 - CMake
 - Visual Studio 14 2015
-- Support **Standard Distribution** Only
+- **Standard Distribution** Support Only
 
 ## How to use
 
 ```bash
-.\Start.bat *http://opensource.spotify.com/cefbuilds/cef_binary_3.3626.1882.g8926126_windows32.tar.bz2*
+.\Start.bat http://opensource.spotify.com/cefbuilds/cef_binary_3.3626.1882.g8926126_windows32.tar.bz2
 ```
 
