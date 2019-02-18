@@ -1,6 +1,6 @@
 # gen-cef-vsproj
 
-From [CEF Automated Builds](http://opensource.spotify.com/cefbuilds/index.html), automatic download/unzip/cmake build and vc build for `libcef_dll_wrapper'.  
+From [CEF Automated Builds](http://opensource.spotify.com/cefbuilds/index.html), automatic download/unzip/cmake build and vc build for `libcef_dll_wrapper`.  
 
 You can find which version used for build in `cef_version.txt`.
 
